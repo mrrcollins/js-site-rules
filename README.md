@@ -1,5 +1,6 @@
 # JavaScript Site Rules
 
+![Screenshot](assets/2026-07-12-screenshot.png)
 This is an extension for Chromium based browsers that allows or blocks JavaScript from running on a site.
 The list of sites and capabilities is synced among the browsers, but can also be exported/imported through the extention.
 
